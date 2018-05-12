@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2041
     wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
 description: Solomon.--Wilhelmina.--St. Clair Flats.--The lady of Little Fishing.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38998#Solomon
 gutenberg_issued: '2012-02-27'
 gutenberg_type: Text
 identifiers:
