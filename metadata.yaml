@@ -1,0 +1,39 @@
+_repo: Solomon_38998
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: O'Reilly, John Boyle
+    birthdate: 1844
+    deathdate: 1890
+    gutenberg_agent_id: '8369'
+    url: http://www.gutenberg.org/2009/agents/8369
+    wikipedia: http://en.wikipedia.org/wiki/John_Boyle_O'Reilly
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woolson, Constance Fenimore
+    alias: March, Anne
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '2041'
+    url: http://www.gutenberg.org/2009/agents/2041
+    wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
+description: Solomon.--Wilhelmina.--St. Clair Flats.--The lady of Little Fishing.
+gutenberg_issued: '2012-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 19th century'
+tableOfContents: Solomon -- Wilhelmina -- St. Clair Flats -- The lady of the little
+  fishing -- Macarius the monk.
+title: Solomon
+url: http://www.gutenberg.org/ebooks/38998
